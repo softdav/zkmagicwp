@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZkMagicWP</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string-array name="center_wp">
+        <item>None</item>
+        <item>Half</item>
+        <item>Third</item>
+        <item>Quarter</item>
+    </string-array>
+</resources>
